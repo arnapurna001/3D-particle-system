@@ -33,8 +33,8 @@ Interact with the system using the following gestures:
 ## 🏁 Getting Started
 
 1.  Clone the repository
-2.  Open `index.html` in a modern web browser.
-3.  Grant camera permissions when prompted.
+2.  Open `index.html` in a modern web browser
+3.  Grant camera permissions when prompted
 4.  Use the **Gestures** button to view the instruction overlay and start interacting!
 
 ---
